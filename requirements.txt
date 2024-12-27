@@ -141,7 +141,7 @@ rqt-service-caller==1.0.5
 rqt-shell==1.0.2
 rqt-srv==1.0.3
 rqt-topic==1.5.0
-scikit-learn==1.6.0
+scikit-learn @ git+https://github.com/Vps2905/my-flask-app.git@b3282d8c29ab38dce70e2c34192c1bd460d90680
 scipy==1.14.1
 sensor-msgs==4.2.4
 sensor-msgs-py==4.2.4
